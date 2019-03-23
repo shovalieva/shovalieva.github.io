@@ -1,0 +1,38 @@
+       h1 {
+       text-decoration: line-through;
+       }
+       .green-text{
+          color:green;
+       }
+       .red-text{
+           color:red;
+       }
+       #uniqueItem{
+           padding: 20px 20px 20px 20px;
+           margin: 40px;
+           background: red;
+           color: white;
+           width:300px;
+           height:300;
+           background: url("https://4pda.ru/forum/dl/post/15749910/IMG_20190322_213306.jpg");
+       }
+       .with-image{
+           
+       }
+       #fr{
+           padding: 20px 20px 20px 20px;
+           margin: 40px 40 ppx 40px 40px;
+           color:black; 
+           background-color:red;
+           width:120px;
+           height:10px;
+       }/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23.03.2019, 11:42:29
+    Author     : Камилла
+*/
+
